@@ -1,0 +1,11 @@
+C:\Domenik\Visual Studio\C++\Codeforces\Kolekcije\Kolekcije\bin\Debug\Kolekcije.exe.config
+C:\Domenik\Visual Studio\C++\Codeforces\Kolekcije\Kolekcije\bin\Debug\Kolekcije.exe
+C:\Domenik\Visual Studio\C++\Codeforces\Kolekcije\Kolekcije\bin\Debug\Kolekcije.pdb
+C:\Domenik\Visual Studio\C++\Codeforces\Kolekcije\Kolekcije\obj\Debug\Kolekcije.csproj.AssemblyReference.cache
+C:\Domenik\Visual Studio\C++\Codeforces\Kolekcije\Kolekcije\obj\Debug\Kolekcije.csproj.SuggestedBindingRedirects.cache
+C:\Domenik\Visual Studio\C++\Codeforces\Kolekcije\Kolekcije\obj\Debug\Kolekcije.Form1.resources
+C:\Domenik\Visual Studio\C++\Codeforces\Kolekcije\Kolekcije\obj\Debug\Kolekcije.Properties.Resources.resources
+C:\Domenik\Visual Studio\C++\Codeforces\Kolekcije\Kolekcije\obj\Debug\Kolekcije.csproj.GenerateResource.cache
+C:\Domenik\Visual Studio\C++\Codeforces\Kolekcije\Kolekcije\obj\Debug\Kolekcije.csproj.CoreCompileInputs.cache
+C:\Domenik\Visual Studio\C++\Codeforces\Kolekcije\Kolekcije\obj\Debug\Kolekcije.exe
+C:\Domenik\Visual Studio\C++\Codeforces\Kolekcije\Kolekcije\obj\Debug\Kolekcije.pdb
